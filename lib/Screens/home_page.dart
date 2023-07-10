@@ -44,19 +44,7 @@ class _HomePageState extends State<HomePage> {
     box.add(newPerson);
     print('Info added to box!');
   }
-
-  _getInfo() {
-    // Get info from people box
-  }
-
-  _updateInfo() {
-    // Update info of people box
-  }
-
-  _deleteInfo() {
-    // Delete info from people box
-  }
-  // ----------------------------------------
+// ----------------------------------------
 
   @override
   Widget build(BuildContext context) {
